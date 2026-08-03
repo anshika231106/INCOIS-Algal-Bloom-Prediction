@@ -38,8 +38,6 @@ for all four study regions.
 Includes:
 
 - Literature Review Presentation
-- Four-week Progress Report
-- Four-week Presentation
 - Final Presentation
 - Final Internship Report
 
