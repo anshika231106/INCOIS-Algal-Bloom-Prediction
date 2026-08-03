@@ -33,19 +33,6 @@ for all four study regions.
 
 ---
 
-### Trained Models
-
-Pre-trained machine learning models are provided for:
-
-- North Eastern Arabian Sea
-- Kerala
-- Gulf of Mannar
-- Coastal Waters of Gopalpur
-
-Both XGBoost and LightGBM models are included.
-
----
-
 ### Documents
 
 Includes:
